@@ -21,7 +21,7 @@ const App = () => {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" style={{ flexGrow: 1 }}>
-            Agri-Practice App
+            AGRI ASAP
           </Typography>
           {user ? (
             <>
